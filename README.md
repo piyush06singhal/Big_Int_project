@@ -6,11 +6,11 @@ BigInt is a C++ library file that is used to handle very big integers. It can be
 2. BigNumber has no additional dependencies and is as simple to use as possible.
 
 # Arithmetic operators
-1. + addition:- BigInt operator +(BigInt x);
-2. - subtraction:- BigInt operator -(BigInt x);
-3. * multiplication:- BigInt operator *(BigInt x);
-4. / division:- BigInt operator /(BigInt x);
-5. % modulus:- BigInt operator %(BigInt x);
+1. addition:- BigInt operator +(BigInt x);
+2. subtraction:- BigInt operator -(BigInt x);
+3. multiplication:- BigInt operator *(BigInt x);
+4. division:- BigInt operator /(BigInt x);
+5. modulus:- BigInt operator %(BigInt x);
 
 # Relational operators
 1. bool operator ==(const BigInt &x) const;
